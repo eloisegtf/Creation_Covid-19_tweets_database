@@ -10,13 +10,7 @@ By using the package "tweepy" allowing the use of the Twitter API, this project 
 - process text variables 
 - analyse the database 
 
-<br/>2. **covid19_tweets.csv**
-<br/>Database containing tweets about covid 19 
-
-<br/>3. **covid19_tweets_treat.csv**
-<br/>Database containing treat tweets about covid 19 
-
-<br/>4. **requirements.txt**
+<br/>2. **requirements.txt**
 <br/> Versions of the python libraries used 
 <br/>
 <br/>You can install the dependencies with the following command-line:
@@ -25,7 +19,7 @@ By using the package "tweepy" allowing the use of the Twitter API, this project 
 pip install -U -r requirements.txt
 ```
 
-<br/>5. **dictionnary.txt**
+<br/>3. **dictionnary.txt**
 <br/> Data dictionary giving: 
 - Name of the variables
 - Types of the variables
